@@ -49,8 +49,8 @@
     "Panels_AssetPack_Title": "Download the asset pack for faster load times",
     "Panels_AssetPack_Link_Title": "Download",
 
-    "Footer_Palette_Copyright": "&copy; Palette Software",
-    "Footer_Palette_Copyright_Text": "Palette Software, the Palette Software logo, creators.tf are developed, founded and owned by Palette Software.",
+    "Footer_Amper_Copyright": "&copy; Amper Software",
+    "Footer_Amper_Copyright_Text": "Amper Software, the Amper Software logo, creators.tf are developed, founded and owned by Amper Software.",
     "Footer_Valve_Copyright": "Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation. We are not affiliated with Valve Corporation. All rights belong to Valve Corporation.",
 
     "CYOA_Quest_Content_Header_Primary": "Primary",
@@ -62,6 +62,7 @@
     "Economy_Items_Use_Title": "Use",
     "Economy_Items_Use_Action_Unbox": "Unbox",
     "Economy_Items_Use_Action_Scrap": "Scrap",
+    "Economy_Items_Use_Action_Paint": "Paint",
 
     "Page_Donate_Title": "Support Creators.TF",
     "Page_Donate_Embed_Title": "Support us on Patreon and get rewards.",
