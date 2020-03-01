@@ -39,7 +39,7 @@
     "Error_Not_Found_Title": "Content Not Found",
     "Error_Not_Found_Content": "The requested material was not found. Check the web address or return to the <a href='/'>main page.</a>",
 
-    "Panels_Monthly_Title": "Unique players this month",
+    "Panels_Monthly_Title": "Unique players in last 30 days",
     "Panels_Links_Title": "Useful links",
     "Panels_Links_Steam": "Steam Group",
     "Panels_Links_Server_Status": "Server Status",
